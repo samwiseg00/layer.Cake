@@ -333,7 +333,7 @@ div > #movieList > div > div > div:nth-child(5) > div:nth-child(4) {
 div > #tvList > p-treetable > div > div > table > tbody > div > td > div > div > div:nth-child(5) > div:nth-child(4):not(.dropdown)		{
     right: calc(100vw - 900px) !important;
         }
-        
+
         div > #rootFolderBtn,
         div > #changeQualityBtn {
     margin-left: calc(1216px - 100vw) !important;
@@ -351,10 +351,10 @@ div > #tvList > p-treetable > div > div > table > tbody > div > td > div > div >
     div > #\/requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table{
     margin-top: -37px;
 }
-    div > #movieList > div:first-child, 
+    div > #movieList > div:first-child,
     div > #tvList > p-treetable > div > div > table > tbody:first-of-type,
 	#tvList > .no-search-results,
-    div > movie-requests > div:nth-of-type(2) > div:first-child, 
+    div > movie-requests > div:nth-of-type(2) > div:first-child,
     div > #\/requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table > tbody:first-of-type {
     border-top: 0 !important;
 }
@@ -370,7 +370,7 @@ div > #tvList > p-treetable > div > div > table > tbody > div > td > div > div >
     div > .input-group > .input-group-addon.right-radius {
         margin-top: 23px;
     }
-    movie-search > #MoviesTab > div.input-group > div > div, 
+    movie-search > #MoviesTab > div.input-group > div > div,
     tv-search > #TvShowTab > div.input-group > div > div {
     margin-top: 20px;
     }
@@ -390,10 +390,10 @@ div > #tvList > p-treetable > div > div > table > tbody > div > td > div > div >
     movie-requests #search {
         max-width: calc(100vw - 615px);
     }
-    
-    
-    
-    
+
+
+
+
     div > #\2f requests > ng-component > div > div > movie-requests > div:nth-child(3) > div > div > div.col-sm-5.small-padding > div.ng-star-inserted > div:nth-child(1) > span {
         max-width: calc(100vw - 800px);
     }
@@ -406,11 +406,11 @@ div > #tvList > p-treetable > div > div > table > tbody > div > td > div > div >
     div > #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table > tbody > div > td > div > div > div.col-sm-5.small-padding > div.ng-star-inserted > div > span {
         max-width: calc(100vw - 850px);
     }
-    
-    
-    
-    
-    
+
+
+
+
+
     #movieList > div > div > div:nth-child(5) > div:nth-child(4) {
     right: calc(100vw - 554px) !important;
     }
@@ -418,9 +418,9 @@ div > #tvList > p-treetable > div > div > table > tbody > div > td > div > div >
 #tvList > p-treetable > div > div > table > tbody > div > td > div > div > div:nth-child(5) > div:nth-child(4):not(.dropdown)	{
     right: calc(100vw - 554px) !important;
     }
-    
-    
-    
+
+
+
     @-moz-document url-prefix() {
 movie-search > div > #movieList > div > div > div:nth-child(5) > div:nth-child(4) {
     right: calc(100vw - 557px) !important;
@@ -436,7 +436,7 @@ tv-search > div > #tvList > p-treetable > div > div > table > tbody > div > td >
         div > #\/requests #markBtnGroup {
     margin-left: calc(408px - 100vw) !important;
 }
-        
+
     }
 	@supports (-ms-ime-align: auto) {
 movie-search > div > #movieList > div > div > div:nth-child(5) > div:nth-child(4) {
@@ -453,9 +453,9 @@ tv-search > div > #tvList > p-treetable > div > div > table > tbody > div > td >
         div > #\/requests #markBtnGroup {
     margin-left: calc(407px - 100vw) !important;
 }
-        
+
     }
-}    
+}
 
  @media only screen and (min-width: 1080.1px) and (max-width: 1200px) {
 .row.issue-details > .chat-window {
@@ -465,7 +465,7 @@ tv-search > div > #tvList > p-treetable > div > div > table > tbody > div > td >
     max-width: calc(100% - 30px);
 }
 }
- @media only screen and (min-width: 1080.1px) and (max-width: 1300px) {   
+ @media only screen and (min-width: 1080.1px) and (max-width: 1300px) {
     div > .issue-details > .myBg,
     div > .issue-details > .tint {
     height: 500px;
@@ -519,19 +519,19 @@ movie-requests > div:nth-of-type(2) > div > div.row > div.col-sm-5 > div > a > h
     .user div > .request-by > span:last-of-type {
         max-width: calc(100vw - 800px) !important;
     }
-    
-    
-    
+
+
+
     #\2f usermanagement .checkbox {
     margin: 0 !important;
     height: 100%;
     display: table-cell;
-   
+
 }
 #\2f usermanagement table .checkbox > input {
     margin: 10px 10px !important;
 }
-body {    
+body {
     width: 100%;
     height: calc(100vh);
     margin-top: -60px;
@@ -737,7 +737,7 @@ body > ombi > div > nav > div > div.navbar-header > div {
     width: 235px;
     border-radius: 0 4px 4px 0;
     padding-left: 25px;
-    
+
 }
 .adminUser #bs-example-navbar-collapse-1 > ul:nth-child(6) > li {
     position: fixed;
@@ -784,8 +784,8 @@ body > ombi > div > nav > div > div.navbar-header > div {
     content: "\EA51";
 }
 
-    
-    
+
+
     #bs-example-navbar-collapse-1 > div:nth-child(7) > ul > li {
         position: fixed;
     top: 460px;
@@ -826,12 +826,12 @@ body > ombi > div > nav > div > div.navbar-header > div {
     .user #bs-example-navbar-collapse-1 > div:nth-child(5) > ul > li > a:hover i.fa.fa-heart:before {
         color: var(--color-donateCustom) !important;
     }
-    
+
 #bs-example-navbar-collapse-1 > ul:nth-child(4) > li > a > i {
     font-size: 100%;
-    
+
 }
-    
+
 body > ombi > div> .container {
     margin-left: 240px !important;
     width: calc(100vw - 240px) !important;
@@ -844,7 +844,7 @@ body > ombi > div> .container > ng-component {
     width: 100%;
     height: 100%;
     margin-top: 60px;
-    
+
 }
 .container > ng-component > h1 {
     font-family: "Open Sans Semibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -905,7 +905,7 @@ body > ombi > div> .container > ng-component {
 
     border-radius: 50%;
     color: #323232;
-    
+
     margin-bottom: -5px;
     display: block;
     width: 20px;
@@ -922,9 +922,9 @@ body > ombi > div> .container > ng-component {
     -webkit-box-shadow: inset 0 0 0 2px #fff;
     box-shadow: inset 0 0 0 2px #fff;
 }
-    
-    
-    
+
+
+
     body > ombi > div > nav > div > #bs-example-navbar-collapse-1 > ul > li > a > i:not(.fa-user) {
         vertical-align: middle;
         margin-right: 7px
@@ -964,9 +964,9 @@ tv-search > div > #tvList > p-treetable > div > div > table > tbody > div > td >
         div > div > #changeQualityBtn {
     margin-left: calc(543px - 100vw) !important;
 }
-            
-            
-            
+
+
+
             movie-search > div > #movieList > div > div > div:nth-child(5) > div:nth-child(4) {
     right: calc(100vw - 557px);
 }
@@ -977,11 +977,11 @@ tv-search > div > #tvList > p-treetable > div > div > table > tbody > div > td >
         div > #\/requests > ng-component > div > div > movie-requests > div:nth-child(3) > div > div > div.col-sm-3.col-sm-push-3.small-padding > div > #markBtnGroup.ng-untouched {
     margin-left: calc(78px - 100vw) !important;
 }
-    
-            
-            
-            
-            
+
+
+
+
+
             div > #movieList > div > div > div:nth-child(5) > div.ng-star-inserted:nth-child(4) {
     right: calc(100vw - 227px) !important;
                 margin-left: auto !important;
@@ -991,14 +991,14 @@ div > tv-search > div > #tvList > p-treetable > div > div > table > tbody > div 
     right: calc(100vw - 227px) !important;
             margin-left: auto !important;
         }
-        
-        
 
-            
-            
-            
-            
-            
+
+
+
+
+
+
+
             .adminUser #bs-example-navbar-collapse-1 > ul.nav.navbar-nav.navbar-right > li:nth-child(2), .powerUser #bs-example-navbar-collapse-1 > ul.nav.navbar-nav.navbar-right > li:nth-child(1), .user #bs-example-navbar-collapse-1 > ul.nav.navbar-nav.navbar-right > li:nth-child(1) {
                 right: 15px !important;
             }
@@ -1011,15 +1011,15 @@ div > tv-search > div > #tvList > p-treetable > div > div > table > tbody > div 
             #bs-example-navbar-collapse-1 > ul.nav.navbar-nav.navbar-right > li:nth-child(3) > a > i > span, .powerUser #bs-example-navbar-collapse-1 > ul.nav.navbar-nav.navbar-right > li:nth-child(2) > a > i > span, .user #bs-example-navbar-collapse-1 > ul.nav.navbar-nav.navbar-right > li:nth-child(2) > a > i > span {
                 right: 108px !important;
             }
-            
+
     }
-    
+
     body .pace .pace-progress,
     body #\2f:before {
         width: calc(100vw - 14px) !important;
         left: 0;
     }
-    
+
     @-moz-document url-prefix(){
     body .pace body .pace-progress,
     body #\2f:before {
@@ -1030,7 +1030,7 @@ div > tv-search > div > #tvList > p-treetable > div > div > table > tbody > div 
         width: calc(100vw - 17px) !important;
 	    }
     }
-    
+
 body > ombi > div> .container {
     margin-left: 0px !important;
     width: 100% !important;
@@ -1047,7 +1047,7 @@ body > ombi > div> .container > ng-component {
     width: 100%;
     height: 100%;
     margin-top: 60px;
-    
+
 }
     #\2f usermanagement\2f updatedetails > ng-component > div > div:nth-child(2) > form {
         margin-top: 90px;
@@ -1102,7 +1102,7 @@ body > ombi > div> .container > ng-component {
     -webkit-margin-before: 0;
     -webkit-margin-after: 0;
 }
-    
+
 body .user-details > h3,
 #\2f usermanagement\2f add.container > ng-component > h3 {
     margin: -50px 0 0 0;
@@ -1126,7 +1126,7 @@ body .user-details > h3,
     #\2f usermanagement\2f add.container > ng-component > .btn-primary-outline {
             margin-top: 1175px;
     }
-    
+
     body .user-details > div.modal-body > div.col-md-6:nth-child(1) {
         margin-top: 80px;
     }
@@ -1139,13 +1139,13 @@ body .user-details > h3,
     body .user-details > div.modal-body > div.col-md-6:nth-child(2) {
         top: 395px;
     }
-    
+
     #\2f usermanagement\2f add > ng-component.ng-star-inserted > div.modal-body > div.col-md-6:nth-child(2) {
     top: 582px;
 }
-    
-    
-    
+
+
+
 #MoviesTab > div.input-group, #TvShowTab > div.input-group {
     margin: -20px 0 0 0;
     width: 100% !important;
@@ -1200,7 +1200,7 @@ body .user-details > h3,
         margin: 0;
     }
     body > ombi > div > nav > div > div.navbar-header > div {
-    
+
     max-width: calc(100vw - 500px);
     height: 60px;
 }
@@ -1233,7 +1233,7 @@ body .user-details > h3,
     }
     .user #Search {
         width: auto;
-        
+
     }
     .user #Search > a {
         width: auto;
@@ -1259,7 +1259,7 @@ body .user-details > h3,
     }
     .user #Requests {
         width: auto;
-        
+
     }
     .user #Requests > a {
         width: auto;
@@ -1285,7 +1285,7 @@ body .user-details > h3,
     }
     .user #Issues {
         width: auto;
-        
+
     }
     .user #Issues > a {
         width: auto;
@@ -1430,12 +1430,12 @@ body .user-details > h3,
     .navbar-right {
     float: left !important;
     margin-right: 0;
-        
+
 }
-    
-    
-    
-    
+
+
+
+
     #bs-example-navbar-collapse-1 > div:nth-child(7) > ul > li,
     .user #bs-example-navbar-collapse-1 > div:nth-child(5) > ul > li {
             width: 60px;
@@ -1466,17 +1466,17 @@ body .user-details > h3,
     .user #bs-example-navbar-collapse-1 > div:nth-child(5) > ul > li > a:hover i.fa.fa-heart:before {
         color: var(--color-donateCustom) !important;
     }
-    
-    
-    
-    
-    
+
+
+
+
+
     .adminUser #bs-example-navbar-collapse-1 > ul.nav.navbar-nav.navbar-right > li:nth-child(1) {
         width: 60px;
         height: 60px;
         padding: 0;
         margin: 0;
-        
+
     }
     .adminUser #bs-example-navbar-collapse-1 > ul.nav.navbar-nav.navbar-right > li:nth-child(1) > a {
         visibility: hidden;
@@ -1526,7 +1526,7 @@ body .user-details > h3,
         font-size: 34px;
         padding: 13px 15px;
         line-height: 60px;
-        
+
     }
     .fa-user:before {
     background-image: url(data:image/png;base64,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) !important;
@@ -1534,7 +1534,7 @@ body .user-details > h3,
     .adminUser #bs-example-navbar-collapse-1 > ul.nav.navbar-nav.navbar-right > li:nth-child(2) > a > i.fa-user:before,
     .powerUser #bs-example-navbar-collapse-1 > ul.nav.navbar-nav.navbar-right > li:nth-child(1) > a > i.fa-user:before,
     .user #bs-example-navbar-collapse-1 > ul.nav.navbar-nav.navbar-right > li:nth-child(1) > a > i.fa-user:before {
-    
+
 	display: block;
     width: 34px;
     height: 34px;
@@ -1604,7 +1604,7 @@ body .user-details > h3,
         font-size: 16px;
         padding: 15px 15px;
         line-height: 30px;
-        
+
     }
     #bs-example-navbar-collapse-1 > ul.nav.navbar-nav.navbar-right > li:nth-child(3) > a > i > span,
     .powerUser #bs-example-navbar-collapse-1 > ul.nav.navbar-nav.navbar-right > li:nth-child(2) > a > i > span,
@@ -1619,8 +1619,8 @@ body .user-details > h3,
         left: auto !important;
         right: -65px !important;
     }
-    
-    
+
+
     #movieList, #tvList {
         width: 100%;
         margin-left: 0 !important;
@@ -1634,12 +1634,12 @@ body .user-details > h3,
         margin-top: -20px !important;
         margin-bottom: 0 !important;
     }
-    
+
     #MoviesTab > br, #TvShowTab > br {
         display: none;
     }
-    #movieList>div.ng-star-inserted:first-child, 
-    #tvList > p-treetable > div > div > table > tbody.ng-star-inserted:first-of-type, 
+    #movieList>div.ng-star-inserted:first-child,
+    #tvList > p-treetable > div > div > table > tbody.ng-star-inserted:first-of-type,
     movie-requests > div:nth-of-type(2) > div.ng-star-inserted:first-child,
     div > #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table > tbody:first-of-type{
     border-top: none !important;
@@ -1652,7 +1652,7 @@ body .user-details > h3,
         max-width: calc(100vw - 100px) !important;
         margin-left: 30px;
 }
-    #movieList>div>div, #tvList > p-treetable > div > div > table > tbody > div > td > div > div, 
+    #movieList>div>div, #tvList > p-treetable > div > div > table > tbody > div > td > div > div,
     movie-requests > div:nth-of-type(2) > div > div.row,
     #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table > tbody > div > td > div > div.row {
     width: 1200px;
@@ -1660,8 +1660,8 @@ body .user-details > h3,
     max-width: calc(100% - 30px) !important;
     margin: auto auto auto 0 !important;
 }
-    #movieList > div > div > div.col-sm-8.small-padding > div > a > h4, 
-    #tvList > p-treetable > div > div > table > tbody > div > td > div > div > div.col-sm-8.small-padding > div > a > h4, 
+    #movieList > div > div > div.col-sm-8.small-padding > div > a > h4,
+    #tvList > p-treetable > div > div > table > tbody > div > td > div > div > div.col-sm-8.small-padding > div > a > h4,
     movie-requests > div:nth-of-type(2) > div > div.row > div.col-sm-5 > div > a > h4,
     #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table > tbody > div > td > div > div.row > div.col-sm-5 > div > a > h4 {
     max-width: calc(100vw - 260px) !important;
@@ -1681,13 +1681,13 @@ body .user-details > h3,
             margin-top: 1px !important;
         margin-bottom: 0;
         padding-bottom: 15.5px !important;
-        
+
 }
-    
+
     movie-requests > div.form-group:before, tv-requests > div.form-group:before {
         padding-left: 43.5px !important;
         top: 19px !important;
-        
+
     }
     /* #filterBtn,
     movie-requests > div.form-group > div > span > button.btn.btn-sm.btn-primary-outline.dropdown-toggle {
@@ -1733,7 +1733,7 @@ body .user-details > h3,
         z-index: 9;
         padding-top: 0 !important;
     }
-    
+
     @-moz-document url-prefix(){
         span > #filterBtn {
     visibility: visible !important;
@@ -1745,9 +1745,9 @@ body .user-details > h3,
             width: 37px !important;
         }
     }
-    
-    
-    
+
+
+
     span > #filterBtn, movie-requests > div.form-group > div > span.input-group-btn > button.btn.btn-sm.btn-primary-outline.dropdown-toggle {
         margin-top: 0;
     }
@@ -1801,8 +1801,8 @@ body .user-details > h3,
     margin: 0px 0px 7px 4px;
 }
 
-    
-    
+
+
     #\2f issues > ng-component > ngb-tabset > ul > li.ng-star-inserted {
     margin-top: 62.5px ;
     float: right;
@@ -1821,10 +1821,10 @@ body .user-details > h3,
     #\2f issues > ng-component > ngb-tabset > div.tab-content {
     padding-right: 30px;
 }
-    
+
     #\2f issues {
         overflow-x: hidden;
-    } 
+    }
 .tab-pane > div > issues-table > table > tbody > tr {
     margin-right: -40px !important;
 }
@@ -1843,9 +1843,9 @@ body .user-details > h3,
     content: "\f05a";
     font: normal normal normal 14px/1 FontAwesome;
     visibility: visible;
-    
+
     color: hsla(0, 0%, 100%, .45);
-    
+
 }
 .tab-pane > div > issues-table > table > tbody > tr > td:nth-child(5) > a:hover:before {
     color: #fff;
@@ -1859,22 +1859,22 @@ body .user-details > h3,
 }
 .tab-pane > div > issues-table > table > tbody > tr > td {
     height: 40px;
-    
+
 }
-    
-    
-    
+
+
+
     #\2f usermanagement {
         overflow-x: hidden;
     }
-    
+
     #\2f usermanagement > ng-component > .btn.btn-success-outline,
     #\2f usermanagement > ng-component > .btn.btn-primary-outline {
         margin-top: 85px;
     }
     #\2f usermanagement > ng-component {
         padding-right: 30px;
-        
+
     }
 
     /* #\2f usermanagement > ng-component > table > tbody > tr > td:nth-child(8) {
@@ -1913,14 +1913,14 @@ body .user-details > h3,
     }
     #\2f usermanagement > ng-component > table > tbody > tr > td.ng-star-inserted {
         width: 40px;
-        
+
         padding: 0;
         border: none;
         position: relative;;
         text-align: center;
         height: inherit;
     }
-    
+
     @-moz-document url-prefix(){
         div > #\2f usermanagement > ng-component > table > tbody > tr > td.ng-star-inserted > button.btn-info-outline.ng-star-inserted {
         visibility: visible !important;
@@ -1929,24 +1929,24 @@ body .user-details > h3,
         #\2f usermanagement > ng-component > table > tbody > tr > td.ng-star-inserted > button.btn-info-outline.ng-star-inserted:before {
             color: hsla(0, 0%, 100%, .3) !important;
         }
-        
+
         div > #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table > tbody > div.ui-treetable-row.ng-star-inserted > td > table > tbody > div > td > div > tvrequests-children > div > div > div:nth-child(2) > ngb-tabset > div > div > .table-striped {
         max-width: calc(100vw - 44px);
     }
-        
+
         div > .row.issue-details > .chat-window > .col-md-12 > .panel > .panel-footer > div > input {
     width: calc(100vw - 107px);
         }
     }
-    
-    
-    
-    
+
+
+
+
     #\2f usermanagement > ng-component > table > tbody > tr > td.ng-star-inserted > button.btn-info-outline.ng-star-inserted {
         visibility: hidden;
         width: 40px;
         text-align: center;
-        
+
         padding: 0 15px;
         color: hsla(0, 0%, 100%, .3) !important;
     }
@@ -1959,7 +1959,7 @@ body .user-details > h3,
         visibility: visible;
         vertical-align: middle;
         margin: auto;
-        
+
     }
     #\2f usermanagement > ng-component > table > tbody > tr > td:nth-child(4) {
         max-width: 16vw;
@@ -1973,7 +1973,7 @@ body .user-details > h3,
     }
     #tvList > p-treetable > div > div > table > tbody > div > td > div > div > div:nth-child(5) > div:nth-child(1),
 #tvList > p-treetable > div > div > table > tbody > div > td > div > div > div:nth-child(5) > div:nth-child(3) {
-    
+
 }
     #filterBtn > i.fa.fa-filter {
     font-size: 22px !important;
@@ -1984,9 +1984,9 @@ body .user-details > h3,
     #MoviesTab > div.input-group > div > div:before, #TvShowTab > div.input-group > div > div:before {
     font-size: 24px !important;
     }
-    
-    
-    
+
+
+
     i.fa-sort:before, i.fa-unsorted:before {
     font-size: 20px;
 }
@@ -2034,12 +2034,12 @@ i.fa-filter:before {
     position: absolute;
     top: 400px;
     }
-    div > #movieList>div:last-of-type, 
-    div > #tvList > p-treetable > div > div > table > tbody:last-of-type, 
-    div > movie-requests > div:nth-of-type(2) > div:last-of-type, 
+    div > #movieList>div:last-of-type,
+    div > #tvList > p-treetable > div > div > table > tbody:last-of-type,
+    div > movie-requests > div:nth-of-type(2) > div:last-of-type,
     div > #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table > tbody:last-of-type {
     border-bottom: none !important;
-    
+
 }
     .row.issue-details > .col-md-6 > .reported-user:after {
         content: "Issue";
@@ -2069,7 +2069,7 @@ i.fa-filter:before {
         top: 490px;
         left: 320px;
     }
-    
+
     /* div > #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table > tbody > div.ui-treetable-row.ng-star-inserted > td > table > tbody > div > td > div > tvrequests-children > div > div {
     margin-left: 0px;
 }
@@ -2083,7 +2083,7 @@ i.fa-filter:before {
     div > #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table > tbody > div.ui-treetable-row.ng-star-inserted > td > table > tbody > div > td > div > tvrequests-children > div > div:first-of-type > div:first-of-type {
         margin-top: -25px;
     }
-    
+
 div > #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table > tbody > div > td > div > div.row > div.col-sm-3 > div > #rootFolderBtn,
 div > #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table > tbody > div > td > div > div.row > div.col-sm-3 > div > #changeQualityBtn {
     margin-left: calc(288px - 100vw) !important;
@@ -2101,11 +2101,11 @@ div > #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:
     #tvList .no-search-results {
     margin-left: -30px;
 }
-    
+
     #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table > tbody > div.ui-treetable-row.ng-star-inserted > td > table {
         margin-top: -20px;
     }
-    
+
     @-moz-document url-prefix(){
         #tvList > p-treetable >  .ui-treetable .table.table-striped.table-hover.table-responsive.table-condensed {
 
@@ -2116,8 +2116,8 @@ div > #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:
         margin-left: -30px;
         width: calc(100vw - 44px);
     }
-    
-    
+
+
     movie-requests > div.form-group > div > span.input-group-btn:before {
     content: '';
     display: block;
@@ -2127,7 +2127,7 @@ div > #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:
     width: 2px;
     height: 60px;
     background: rgba(0,0,0,.3);
-    
+
 }
     .adminUser > div > ng-component fieldset > legend {
     font-family: "Open Sans Semibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -2201,14 +2201,14 @@ div > #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:
 #\2f usermanagement {
         overflow-x: hidden;
     }
-    
+
     #\2f usermanagement > ng-component > .btn.btn-success-outline,
     #\2f usermanagement > ng-component > .btn.btn-primary-outline {
         margin-top: 30px;
     }
     #\2f usermanagement > ng-component {
         padding-right: 0px;
-        
+
     }
 
     /* #\2f usermanagement > ng-component > table > tbody > tr > td:nth-child(8) {
@@ -2258,7 +2258,7 @@ div > #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:
         visibility: hidden;
         width: 40px;
         text-align: center;
-        
+
         padding: 0 15px;
         color: hsla(0, 0%, 100%, .3) !important;
     }
@@ -2271,7 +2271,7 @@ div > #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:
         visibility: visible;
         vertical-align: middle;
         margin: auto;
-        
+
     }
     @-moz-document url-prefix(){
         div > #\2f usermanagement > ng-component > table > tbody > tr > td.ng-star-inserted > button.btn-info-outline.ng-star-inserted {
@@ -2332,20 +2332,20 @@ div > #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:
         min-width: 100px;
     }
     }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     #\/landingpage {
         z-index: 99999999;
         width: 100vw;
@@ -2355,7 +2355,7 @@ div > #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:
         top: 0;
         left: 0;
     }
-    
+
     #\2f landingpage > ng-component > div > div > div > div > button {
         background: var(--color-secondary);
 cursor: pointer;
@@ -2370,9 +2370,9 @@ border-color: transparent !important;
     #\2f landingpage > ng-component > div > div.bg.ng-trigger-fadeInOut {
         top: 0;
     }
-    
-    
-    
+
+
+
     #\2f login .form-control:active, #\2f login .form-control:focus,
 #\/login\/true	 .form-control:active, #\/login\/true .form-control:focus {
     background: #fff !important;
@@ -2408,7 +2408,7 @@ font-weight:
     -webkit-font-smoothing: antialiased;
 }
 #\2f login .checkbox > input {
-    
+
 }
 .fa-film:before {
     content: "\EA04";
@@ -2536,7 +2536,7 @@ issues-table > table > thead > tr > th > span {
 }
 input, textarea, select, button {
     font-family: inherit;
-    
+
 }
 table.table>thead>tr>th.active {
     background-color: transparent;
@@ -2563,7 +2563,7 @@ p-sidebar[styleClass="ui-sidebar-md side-back"] {
 
 
 .navbar-default .navbar-nav>li>a:hover i.fa.fa-heart {
-  
+
   animation: wifeTax 2s infinite;
 }
 
@@ -2659,7 +2659,7 @@ label {
     font-weight: 400;
     font-style: normal;
     font-family: plex-icons;
-    
+
 }
 .fa-plus:before {
     content: "\EA0E";
@@ -2697,7 +2697,7 @@ label {
 
 
 
-/* Root For Emby 6c38af  5182D1*/ 
+/* Root For Emby 6c38af  5182D1*/
 /* :root {
     --color-background: #333333;
     --color-primary: #22aadc;
@@ -2732,7 +2732,7 @@ body {
     background: url(https://raw.githubusercontent.com/leram84/layer.Cake/master/Resources/blur-noise.png), var(--color-background);
     color: hsla(0, 0%, 100%, .45);
     font-family: Open Sans Regular, Helvetica Neue, Helvetica, Arial, sans-serif;
-}    
+}
 .navbar-default {
         background:  url(https://raw.githubusercontent.com/leram84/layer.Cake/master/Resources/blur-noise.png), linear-gradient(0deg, rgba(0, 0, 0, .2), rgba(0, 0, 0, .2)), var(--color-background);
 }
@@ -2949,7 +2949,7 @@ body > div.ui-tooltip.ui-widget.ui-tooltip-right > div.ui-tooltip-arrow {
 
 
 body > div.ui-widget-overlay.ui-sidebar-mask {
-   
+
 }
 
 
@@ -2971,7 +2971,7 @@ body > div.ui-widget-overlay.ui-sidebar-mask {
 #bs-example-navbar-collapse-1 > ul.nav.navbar-nav.navbar-right > li.dropdown.open > ul {
     right: -65px;
     left: auto;
-    
+
 }
 body > ombi > div > nav > div > div.navbar-header > div:hover {
     background: rgba(0,0,0,.45);
@@ -3209,7 +3209,7 @@ body > ombi > div > nav > div > div.navbar-header > div > a:hover {
 /* .input-group > .input-group-addon.right-radius > .btn-group */
 #\2f search .nav-tabs>li {
 
-    
+
     font-family: "Open Sans Semibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 15px !important;
     font-stretch: normal;
@@ -3221,12 +3221,12 @@ body > ombi > div > nav > div > div.navbar-header > div > a:hover {
     width: auto;
     letter-spacing: normal;
     line-height: 60px;
-    
+
 }
 /* #\2f requests .nav-tabs>li, */
 #\2f requests #nav-tabs > li {
     position: fixed;
-    
+
     font-family: "Open Sans Semibold", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 15px !important;
     font-stretch: normal;
@@ -3266,12 +3266,12 @@ body > ombi > div > nav > div > div.navbar-header > div > a:hover {
    color:transparent !important;
 }
 #search:-moz-placeholder {
-   color:transparent !important; 
+   color:transparent !important;
 }
 #search::-moz-placeholder {
-   color:transparent !important; 
+   color:transparent !important;
 }
-#search:-ms-input-placeholder {  
+#search:-ms-input-placeholder {
    color:transparent !important;
 }
 ::-webkit-input-placeholder {
@@ -3310,12 +3310,12 @@ body > ombi > div > nav > div > div.navbar-header > div > a:hover {
     box-shadow: none;
     -webkit-transition: background-color 0.2s;
     transition: background-color 0.2s;
-    
+
 }
 #search:focus,
 #search:active {
     background: hsla(0, 0%, 100%, .2) !important;
-    
+
 }
 tv-requests > div.form-group {
     padding-top: 40px;
@@ -3340,7 +3340,7 @@ movie-requests > div.form-group:before, tv-requests > div.form-group:before {
     width: 15px;
     position: absolute;
     top: 19px;
-    
+
 }
 .btn-primary-outline:focus, .btn-primary-outline:hover, .open>.btn-primary-outline.dropdown-toggle {
     color: #fff!important;
@@ -3355,7 +3355,7 @@ movie-requests > div.form-group:before, tv-requests > div.form-group:before {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: hsla(0,0%,100%,.65) !important;
-    
+
 }
 #MoviesTab > div.input-group > div > div, #TvShowTab > div.input-group > div > div {
     width: 40px;
@@ -3420,7 +3420,7 @@ movie-search > div > #movieList > .no-search-results  {
     padding-bottom: 80px;
     border-bottom: 2px solid rgba(0,0,0,.3) !important;
     margin-bottom: 0;
-    
+
 }
 .input-group-addon .btn-group .btn:hover {
     color: #fff !important;
@@ -3524,7 +3524,7 @@ a:focus {
     line-height: 2.2;
     display: inline-block;
     padding: 0 10px;
-    
+
 }
 .alert.alert-danger > div:only-of-type {
     text-align: center;
@@ -3667,13 +3667,13 @@ top: 0;
     position: absolute;
     margin-top: 20px;
 
-    
+
 }
 .input-group-addon.right-radius {
-    
+
     width: 24px;
     height: 24px;
-    
+
     font: normal normal normal 14px/1 FontAwesome;
 
     text-rendering: auto;
@@ -3725,7 +3725,7 @@ a.active {
     white-space: nowrap;
     float: right;
     opacity: 1;
-    
+
 }
 #login > .card.card-container > .form-signin > .btn.btn-success-outline:hover {
     background-color: var(--color-secondary-hover) !important;
@@ -3815,7 +3815,7 @@ table {
     margin: 0 0 0 20px !important;
     vertical-align: middle;
     height: 100%;
-    
+
 }
 #\2f usermanagement > ng-component > table > tbody > tr > .checkbox label {
     display: none;
@@ -4102,7 +4102,7 @@ fieldset {
 #\2f Settings\2f About .table a:not(.btn):hover, #\2f Settings\2f About table a:not(.btn):hover {
     text-decoration: underline;
     color: #fff !important;
-    
+
 }
 a:hover b{
     color: #fff !important;
@@ -4203,7 +4203,7 @@ a:focus, a:hover {
 }
 
 #\2f usermanagement\2f edit > ng-component > div {
-    
+
 }
 /* Settings#ac3323 */
 
@@ -4260,7 +4260,7 @@ movie-requests > div:nth-of-type(2) > div > div.row,
     height: 225px;
     max-width: calc(100% - 60px);
     margin: auto;
-    
+
 }
 #movieList > div > div > div:nth-child(3):hover:before,
 #tvList > p-treetable > div > div > table > tbody > div > td > div > div > div:nth-child(3):hover:before {
@@ -4285,7 +4285,7 @@ movie-requests > div:nth-of-type(2) > div > div.row,
     font-stretch: normal;
     font-style: normal;
     transition: all 0s;
-    
+
 }
 #movieList > div > div > div:nth-child(3):hover:after,
 #tvList > p-treetable > div > div > table > tbody > div > td > div > div > div:nth-child(3):hover:after {
@@ -4346,7 +4346,7 @@ movie-requests > div:nth-of-type(2) > div:nth-of-type(even),
 movie-requests > div:nth-of-type(2) > div:first-child,
 #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table > tbody:first-of-type {
     border-top: 2px solid rgba(0,0,0,.3) !important;
-    
+
 }
 #movieList>div:last-of-type,
 #tvList > p-treetable > div > div > table > tbody:last-of-type,
@@ -4415,7 +4415,7 @@ movie-requests > div:nth-of-type(2) > div > div.row > div.col-sm-3,
     position: absolute;
     top: -35px;
     right: 0;
-    
+
     vertical-align: middle;
     text-align: center;
     text-transform: uppercase;
@@ -4442,7 +4442,7 @@ movie-requests > div:nth-of-type(2) > div > div.row > div.col-sm-3,
     opacity: 1;
     margin-left: -110px;
     margin-top: -69px;
-    
+
     vertical-align: middle;
     text-align: center;
     text-transform: uppercase;
@@ -4572,7 +4572,7 @@ movie-requests > div:nth-of-type(2) > div > div.row > div.col-sm-3,
     background-image: none;
     border-color: var(--color-secondary) !important;
     opacity: 1;
-    
+
     vertical-align: middle;
     text-align: center;
     text-transform: uppercase;
@@ -4585,25 +4585,25 @@ movie-requests > div:nth-of-type(2) > div > div.row > div.col-sm-3,
     top: -35px;
     right: 110px;
 }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     /* emby */
     #embybtn:nth-child(1):hover:before {
     content: ''!important;
@@ -4637,7 +4637,7 @@ movie-requests > div:nth-of-type(2) > div > div.row > div.col-sm-3,
         border-color: var(--color-secondary) !important;
         background: var(--color-secondary) !important;
     }
-    
+
     #movieList > div > div > div:nth-child(5) > div:nth-child(4) > #embybtn:nth-child(2):hover:before {
         content: ''!important;
     display: block;
@@ -4656,10 +4656,10 @@ movie-requests > div:nth-of-type(2) > div > div.row > div.col-sm-3,
         left: -.5px !important;
         padding: 0 !important;
     }
-    
-    
-    
-    
+
+
+
+
     #tvList > p-treetable > div > div > table > tbody > div > td > div > div > div:nth-child(5) > div:nth-child(4) > #embybtn {
         height: 50px !important;
         width: 150px;
@@ -4667,8 +4667,8 @@ movie-requests > div:nth-of-type(2) > div > div.row > div.col-sm-3,
         padding: 0;
         transition: all 0s;
     }
-    
-    
+
+
     #tvList > p-treetable > div > div > table > tbody > div > td > div > div > div:nth-child(5) > div:nth-child(5) > .btn-primary-outline {
     -o-transition: all .218s;
     -moz-transition: all .218s;
@@ -4683,7 +4683,7 @@ movie-requests > div:nth-of-type(2) > div > div.row > div.col-sm-3,
     background-image: none;
     border-color: var(--color-secondary) !important;
     opacity: 1;
-    
+
     vertical-align: middle;
     text-align: center;
     text-transform: uppercase;
@@ -4703,16 +4703,16 @@ movie-requests > div:nth-of-type(2) > div > div.row > div.col-sm-3,
     height: 1px;
     position: absolute;
 }
-   
+
     #tvList > p-treetable > div > div > table > tbody > div > td > div > div > div:nth-child(5) > div:nth-child(4) {
-    
+
 }
     #tvList > p-treetable > div > div > table > tbody > div > td > div > div > div:nth-child(5) > div:nth-child(4) > #embybtn {
         border-radius: 8px !important;
         border: 2px solid rgba(0,0,0,0) !important;
         color: transparent !important;
         top: -50px !important;
-        
+
     }
     #tvList > p-treetable > div > div > table > tbody > div > td > div > div > div:nth-child(5) > div:nth-child(4) > #embybtn:hover {
         border-color: var(--color-secondary) !important;
@@ -4735,33 +4735,33 @@ movie-requests > div:nth-of-type(2) > div > div.row > div.col-sm-3,
         top: 0 !important;
         left: -.5px !important;
         padding: 0 !important;
-        
+
     }
     #tvList > p-treetable > div > div > table > tbody > div > td > div > div > div:nth-child(5) > div:nth-child(4) > #embybtn {
-        
+
     }
-    
-    
+
+
     #tvList > p-treetable > div > div > table > tbody > div > td > div > div > div:nth-child(5) > div:nth-child(5) > .dropdown-menu {
     top: -10px;
     right: 110px;
     left: auto;
 }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #tvList > p-treetable > div > div > table > tbody > div > td > div > div > div:nth-child(5) > div:nth-child(3) > .btn-primary-outline {
     -o-transition: all .218s;
     -moz-transition: all .218s;
@@ -4776,7 +4776,7 @@ movie-requests > div:nth-of-type(2) > div > div.row > div.col-sm-3,
     background-image: none;
     border-color: var(--color-secondary) !important;
     opacity: 1;
-    
+
     vertical-align: middle;
     text-align: center;
     text-transform: uppercase;
@@ -4845,7 +4845,7 @@ movie-requests > div:nth-of-type(2) > div > div.row > div.col-sm-3,
     opacity: 1;
     top: -35px;
     right: 0;
-    
+
     vertical-align: middle;
     text-align: center;
     text-transform: uppercase;
@@ -4854,16 +4854,16 @@ movie-requests > div:nth-of-type(2) > div > div.row > div.col-sm-3,
     -webkit-transition: background-color .2s,color .2s;
     transition: background-color .2s,color .2s;
     font-weight: 400 !important;
-    
+
     position: absolute;
 }
 #movieList > div > div > div:nth-child(5) > div > .btn-primary-outline > i {
     padding-right: 4px;
     vertical-align: middle;
-    
+
 }
 #tvList > p-treetable > div > div > table > tbody > div > td > div > div > div:nth-child(5) > div:nth-child(1) > .btn.btn-primary-outline.dropdown-toggle {
-    
+
 }
 
 
@@ -4933,9 +4933,9 @@ movie-requests > div:nth-of-type(2) > div > div.row > div.col-sm-3,
     background-image: none;
     border-color: var(--color-secondary) !important;
     opacity: 1;
-    
+
     top: -35px;
-    
+
     vertical-align: middle;
     text-align: center;
     text-transform: uppercase;
@@ -4944,14 +4944,14 @@ movie-requests > div:nth-of-type(2) > div > div.row > div.col-sm-3,
     -webkit-transition: background-color .2s,color .2s;
     transition: background-color .2s,color .2s;
     font-weight: 400 !important;
-    
+
     right: 0;
     position: absolute;
 }
 #tvList > p-treetable > div > div > table > tbody > div > td > div > div > div:nth-child(5) > div > .btn > i {
     padding-right: 4px;
         vertical-align: middle;
-    
+
 }
 #tvList > p-treetable > div > div > table > tbody > div > td > div > div > div:nth-child(5) > div:nth-child(1) >  .dropdown-menu {
     top: -10px;
@@ -4985,7 +4985,7 @@ div > #movieList > div > div > div:nth-child(5) > div:nth-child(4) {
     top: -35px;
     width: 150px;
     height: 225px;
-    
+
 }
 
 #movieList > div > div > div:nth-child(5) > div:nth-child(4) > a,
@@ -5030,9 +5030,9 @@ div > #movieList > div > div > div:nth-child(5) > div:nth-child(4) {
             margin-right: 50px;
         }
     }
-    
-    
-    
+
+
+
 /* Similar */
 #movieList > div > div > div:nth-child(5) > .btn-info-outline {
     visibility: hidden;
@@ -5040,14 +5040,14 @@ div > #movieList > div > div > div:nth-child(5) > div:nth-child(4) {
     right: 75px;
     width: 100%;
     top: 190px;
-    
+
 }
 
 #movieList > div > div > div:nth-child(5) > .btn-info-outline:before {
     content: "Related Movies";
     visibility: visible;
-    
-    
+
+
     vertical-align: middle;
     text-align: center;
     text-transform: uppercase;
@@ -5092,7 +5092,7 @@ div > #movieList > div > div > div:nth-child(5) > div:nth-child(4) {
     font-stretch: normal;
     font-style: normal;
     transition: all 0s;
-    
+
 }
 #movieList > div > div > div:nth-child(5) > div:nth-child(4) > a:hover:before,
 #tvList > p-treetable > div > div > table > tbody > div > td > div > div > div:nth-child(5) > div:nth-child(3) > a:hover:before {
@@ -5115,7 +5115,7 @@ div > #movieList > div > div > div:nth-child(5) > div:nth-child(4) {
     color: #fff;
     font-size: 22px;
     padding: 9px 3px 4px 6px;
-    
+
 }
 #movieList > div > div > div:nth-child(5) > div:nth-child(4) > a>i,
 #tvList > p-treetable > div > div > table > tbody > div > td > div > div > div:nth-child(5) > div:nth-child(3) > a > i {
@@ -5142,7 +5142,7 @@ movie-requests > div:nth-of-type(2) > div > div.row > div.col-sm-5 > div > a > h
     font-size: 24px;
     font-family: Open Sans Bold,Helvetica Neue,Helvetica,Arial,sans-serif;
     font-weight: 400;
-    
+
 }
 
 
@@ -5199,7 +5199,7 @@ movie-requests > div:nth-of-type(2) > div > div.row > div.col-sm-5 > div > a > h
     #tvList > p-treetable > div > div > table > tbody > div > td > div > div > div.col-sm-8.small-padding > div > span:first-of-type > * {
 
         white-space: nowrap;
-        
+
         justify-content: center;
         display: flex !important;
         order: 2;
@@ -5207,7 +5207,7 @@ movie-requests > div:nth-of-type(2) > div > div.row > div.col-sm-5 > div > a > h
     }
     #homepageLabel {
         order: 3 !important;
-        
+
     }
 #homepageLabel:hover {
     text-decoration: underline;
@@ -5250,7 +5250,7 @@ padding: 0 0 0 6px !important;
 
 }
 #availableLabel {
-    
+
 }
 #statusLabel {
     background-color: rgba(255,255,255,.15);
@@ -5307,7 +5307,7 @@ padding: 0 0 0 6px !important;
         line-height: 1.7729;
     font-size: 15px !important;
     vertical-align: middle;
-    
+
 }
 
 /* #tvList > p-treetable > div > div > table > tbody > div > td > div > div > div.col-sm-8.small-padding > p, */
@@ -5439,11 +5439,11 @@ seriesinformation > div > button:hover {
     padding: 0 30px;
 }
 #tvList > p-treetable > div > div > table > tbody > div.ui-treetable-row.ng-star-inserted > td > table > tbody > div > td > div > seriesinformation > div > ngb-tabset > ul {
-    
+
     border-bottom: none;
 }
 #tvList > p-treetable > div > div > table > tbody > div.ui-treetable-row.ng-star-inserted > td > table > tbody > div > td > div > seriesinformation > div > ngb-tabset > .tab-content {
-    
+
 }
 #tvList > p-treetable >  .ui-treetable .table.table-striped.table-hover.table-responsive.table-condensed {
     background: rgba(0,0,0,.15);
@@ -5477,13 +5477,13 @@ seriesinformation > div > button:hover {
 #tvList > p-treetable > div > div > table > tbody > div.ui-treetable-row.ng-star-inserted > td > table > tbody > div > td > div > seriesinformation > div > ngb-tabset > ul.nav-tabs > li > a {
     width: 50px;
     height: 50px;
-    
+
     padding: 0;
     text-align: center;
     vertical-align: middle;
     margin: 0;
     line-height: 50px;
-    
+
 }
 
 #tvList > p-treetable > div > div > table > tbody > div.ui-treetable-row.ng-star-inserted > td > table > tbody > div > td > div > seriesinformation > div > ngb-tabset > div > .tab-pane > h2 {
@@ -5503,8 +5503,8 @@ seriesinformation > div > button:hover {
     -webkit-margin-after: 0;
     background: rgba(0,0,0,.15);
     width: 123px;
-    
-    
+
+
 }
 #tvList > p-treetable > div > div > table > tbody > div.ui-treetable-row.ng-star-inserted > td > table > tbody > div > td > div > seriesinformation > div > ngb-tabset > div > .tab-pane > .btn-primary-outline {
     color: #fff !important;
@@ -5537,7 +5537,7 @@ seriesinformation > div > button:hover {
 #selectedLabel {
     text-transform: uppercase;
     background: var(--color-secondary) !important;
-    
+
 }
 #selectedLabel:before {
     content: "\EA50";
@@ -5722,7 +5722,7 @@ ul, menu, dir {
     font-style: normal;
     font-family: Glyphicons Regular;
     opacity: 0;
-    
+
 }
 #\2f requests #markBtnGroup > .btn-info-outline:before {
     position: absolute;
@@ -5743,7 +5743,7 @@ ul, menu, dir {
 #\2f requests #markBtnGroup > .btn-info-outline:hover:after {
     color: rgba(0,0,0,.6) !important;
     opacity: 1;
-    
+
 }
 #\2f requests #markBtnGroup > .btn-success-outline > i.fa:before,
 #\2f requests #markBtnGroup > .btn-info-outline > i.fa:before {
@@ -5803,7 +5803,7 @@ ul, menu, dir {
     text-align: center;
     content: "\E207";
     opacity: 0;
-    
+
 }
 #\2f requests #markBtnGroup > .btn-success-outline:before {
         position: absolute;
@@ -5881,7 +5881,7 @@ top: -75px !important;
     -webkit-font-smoothing: antialiased;
     font-weight: 400;
     margin-left: 47px;
-    
+
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -5939,7 +5939,7 @@ top: -75px !important;
     margin-top: 200px;
     font-size: 13px;
     border-radius: 3px;
-    
+
     font-family: "Open Sans Bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
 font-size: 9.75px;
 font-weight: 400;
@@ -5961,7 +5961,7 @@ white-space: nowrap;
     margin-top: 200px;
     font-size: 13px;
     border-radius: 3px;
-    
+
     font-family: "Open Sans Bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
 font-size: 9.75px;
 font-weight: 400;
@@ -5977,7 +5977,7 @@ white-space: nowrap;
 #approveBtn {
     margin-top: 73px;
     margin-left: -250px;
-    
+
 }
 #approveBtn > form {
     position: absolute;
@@ -6008,11 +6008,11 @@ white-space: nowrap;
     font-weight: 400;
     transition: all 0s;
 }
-    
-    
+
+
     #\2f requests > ng-component > div > div:nth-child(1) > movie-requests > div:nth-child(3) > div > div > div.col-sm-5.small-padding > div.ng-star-inserted {
-        
-        
+
+
     }
 #\2f requests > ng-component > div > div > movie-requests > div:nth-child(3) > div > div > div.col-sm-5.small-padding > div.ng-star-inserted > div:nth-child(1) {
     color: #ccc;
@@ -6041,7 +6041,7 @@ white-space: nowrap;
     text-overflow: ellipsis;
     max-width: calc(100vw - 860px);
     display: inline-block;
-    
+
 }
 #\2f requests > ng-component > div > div > movie-requests > div:nth-child(3) > div > div > div.col-sm-5.small-padding > div.ng-star-inserted > div:nth-child(2) {
     color: #ccc;
@@ -6069,21 +6069,21 @@ white-space: nowrap;
     text-overflow: ellipsis;
     max-width: calc(100vw - 860px);
     display: inline-block;
-    
+
 }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #approveBtn > form > .btn-success-outline {
         -o-transition: all .218s;
@@ -6197,7 +6197,7 @@ white-space: nowrap;
 }
 #removeBtn > .btn-danger-outline.delete > .fa-minus {
     font-size: 17px;
-    
+
 }
 #removeBtn > .btn-danger-outline.delete > .fa-minus:before {
     content: "\EA68";
@@ -6207,7 +6207,7 @@ white-space: nowrap;
     visibility: visible;
     background: transparent;
     padding: 8px ;
-    
+
     border-radius: 50%;
     background: transparent;
     text-align: center;
@@ -6253,7 +6253,7 @@ white-space: nowrap;
     font-family: Glyphicons Regular;
     display: block;
     position: absolute;
-    
+
 }
 #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table > tbody > div > td > div > div > div.col-sm-3.col-sm-push-3.small-padding > button.active:after {
     -webkit-transform: rotate(270deg) !important;
@@ -6319,24 +6319,24 @@ white-space: nowrap;
     #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table > tbody > div > td > div > div > div.col-sm-5.small-padding > div.ng-star-inserted > div:nth-child(2) > span {
         margin-left: 28px;
     }
-    
-    
-    
-    
-    
+
+
+
+
+
 #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table > tbody > div.ui-treetable-row.ng-star-inserted > td > table > tbody > div > td > div > tvrequests-children > div > div:nth-of-type(even) > div {
     background: ;
 }
 
-#\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table > tbody > 
+#\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table > tbody >
 div.ui-treetable-row.ng-star-inserted > td > table > tbody > div > td > div > tvrequests-children > div > div > div:nth-child(2) > ngb-tabset > div > div > .table-striped {
     background: rgba(0,0,0,.15);
     border-bottom: 2px solid rgba(0,0,0,.3);
     margin-bottom: 10px;
 }
-#\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table > tbody > 
+#\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table > tbody >
 div.ui-treetable-row.ng-star-inserted {
-    
+
 }
 
 #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table > tbody > div.ui-treetable-row.ng-star-inserted > td > table > tbody > div > td > div > tvrequests-children > div > div {
@@ -6359,7 +6359,7 @@ div.ui-treetable-row.ng-star-inserted {
     top: 0;
     right: 0;
     left: auto;
-    
+
 }
 #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table > tbody > div.ui-treetable-row.ng-star-inserted > td > table > tbody > div > td > div > tvrequests-children > div > div > div:nth-child(1) > div.col-md-1 #availableBtn {
     border: none;
@@ -6505,7 +6505,7 @@ div.ui-treetable-row.ng-star-inserted {
     font-family: Open Sans Bold,Helvetica Neue,Helvetica,Arial,sans-serif !important;
 }
 #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table > tbody > div.ui-treetable-row.ng-star-inserted > td > table > tbody > div > td > div > tvrequests-children > div > div > div:nth-child(1) > div.col-md-1 #denyBtn > .fa-times {
-    
+
 }
 #denyBtn > .btn-danger-outline > .fa-times:before,
 #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table > tbody > div.ui-treetable-row.ng-star-inserted > td > table > tbody > div > td > div > tvrequests-children > div > div > div:nth-child(1) > div.col-md-1 #denyBtn > .fa-times:before {
@@ -6539,18 +6539,18 @@ tv-requests .nav-tabs {
     display: inline-block;
 }
 #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table > tbody > div.ui-treetable-row.ng-star-inserted > td > table > tbody > div > td > div > tvrequests-children > div > div > div > ngb-tabset > ul.nav-tabs > li {
-    
+
 }
 #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table > tbody > div.ui-treetable-row.ng-star-inserted > td > table > tbody > div > td > div > tvrequests-children > div > div > div > ngb-tabset > ul.nav-tabs > li > a {
     width: 50px;
     height: 50px;
-    
+
     padding: 0;
     text-align: center;
     vertical-align: middle;
     margin: 0;
     line-height: 50px;
-    
+
 }
 #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table > tbody > div.ui-treetable-row.ng-star-inserted > td > table > tbody > div > td > div > tvrequests-children > div > div > div > ngb-tabset > div > div > h2 {
     position: absolute;
@@ -6592,14 +6592,14 @@ tvrequests-children .table-condensed>tbody>tr>td,
     padding-left: 15px;
 }
 #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table > tbody > div.ui-treetable-row.ng-star-inserted > td > table > tbody > div > td > div > tvrequests-children > div > div > div table > thead > tr > th:nth-of-type(2) {
-    
+
     padding-left: 15px;
 }
 #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table > tbody > div.ui-treetable-row.ng-star-inserted > td > table > tbody > div > td > div > tvrequests-children > div > div > div table > tbody > tr > td:nth-of-type(2) {
     padding-left: 15px;
 }
 #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table > tbody > div.ui-treetable-row.ng-star-inserted > td > table > tbody > div > td > div > tvrequests-children > div > div > div table > thead > tr > th:nth-of-type(3) {
-    
+
     padding-left: 15px;
 }
 #\2f requests > ng-component > div > div:nth-child(2) > tv-requests > div:nth-child(3) > p-treetable > div > div > table > tbody > div.ui-treetable-row.ng-star-inserted > td > table > tbody > div > td > div > tvrequests-children > div > div > div table > tbody > tr > td:nth-of-type(3) {
@@ -6631,15 +6631,15 @@ tvrequests-children .table-condensed>tbody>tr>td,
 }
 #tvList seriesinformation table > tbody > tr > td:nth-of-type(2) {
     padding-left: 15px;
-    
+
 }
 #tvList seriesinformation table > thead > tr > th:nth-of-type(3) {
-    
+
     padding-left: 15px;
 }
 #tvList seriesinformation table > tbody > tr > td:nth-of-type(3) {
     padding-left: 15px;
-    
+
 }
 #tvList seriesinformation table > thead > tr > th:nth-of-type(4) {
     width: 160px;
@@ -6758,7 +6758,7 @@ movie-requests > div.form-group > div > span.input-group-btn {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: hsla(0,0%,100%,.65) !important;
-    
+
 }
 .fa-filter:before {
     content: "\E321";
@@ -6787,7 +6787,7 @@ movie-requests > div.form-group > div > span.input-group-btn {
     border-top: 5px solid;
     border-left: 4px solid transparent !important;
     border-right: 4px solid transparent !important;
-    
+
 }
 movie-requests > div.form-group > div > span > button.btn.btn-sm.btn-primary-outline.dropdown-toggle {
     font-family: "Open Sans Semibold", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
@@ -6824,7 +6824,7 @@ movie-requests > div.form-group > div > span > button.btn.btn-sm.btn-primary-out
     background: transparent !important;
 }
 movie-requests > div.form-group > div > span.input-group-btn {
-    
+
 }
 movie-requests > div.form-group > div > span > ul.dropdown-menu {
     margin-left: -25px;
@@ -6924,7 +6924,7 @@ movie-requests > p-sidebar > .ui-sidebar-md.side-back.side-small.ng-trigger.ng-t
     font-variant-numeric: normal;
     font-weight: 400;
     margin: 0;
-    
+
 }
 movie-requests > p-sidebar > .ui-sidebar-md.side-back.side-small.ng-trigger.ng-trigger-panelState.ui-sidebar.ui-widget.ui-widget-content.ui-shadow.ui-sidebar-active.ui-sidebar-left > div > div.form-group > div.radio > label {
     width: 100%;
@@ -6996,7 +6996,7 @@ movie-requests > p-sidebar > .ui-sidebar-md.side-back.side-small.ng-trigger.ng-t
     color: var(--color-primary) !important;
     text-align: center;
     line-height: 13px;
-    
+
 }
 .radio input[type=radio]:checked+label:before {
     content: "\EA50";
@@ -7273,7 +7273,7 @@ issue-report > p-sidebar > .ui-sidebar-md.side-back.ng-trigger.ng-trigger-panelS
     margin-top: -20px;
     background: #323232;
     opacity: 1;
-    
+
 }
 issue-report > p-sidebar > .ui-sidebar-md.side-back.ng-trigger.ng-trigger-panelState.ui-sidebar.ui-widget.ui-widget-content.ui-shadow.ui-sidebar-active.ui-sidebar-right > a > span,
 #\2f usermanagement .ui-sidebar-active > a > span {
@@ -7399,7 +7399,7 @@ z-index: 9999999 !important;
 #\2f issues > ng-component > ngb-tabset > div > .tab-pane > div > issues-table > table > tbody > tr > td {
     padding-left: 15px;
     font-weight: 400;
-    
+
 }
 #\2f issues > ng-component > ngb-tabset > div > .tab-pane > div > issues-table > table > tbody > tr > td:last-of-type {
     width: 95px;
@@ -7419,7 +7419,7 @@ z-index: 9999999 !important;
     white-space: nowrap;
     margin: 5px auto;
     text-transform: uppercase;
-    
+
 }
 #\2f issues > ng-component > ngb-tabset > div > .tab-pane > div > issues-table > p-paginator > div.ui-paginator > a,
 #\2f issues > ng-component > ngb-tabset > div > .tab-pane > div > issues-table > p-paginator > div.ui-paginator > span > a {
@@ -7503,7 +7503,7 @@ z-index: 9999999 !important;
 #\2f issues > ng-component > ngb-tabset > div > .tab-pane > div > issues-table > p-paginator > div.ui-paginator > .ui-paginator-pages > a.ui-paginator-element:first-of-type:after {
     content: 'of';
     padding-left: 10px;
-    
+
 }
 #\2f issues > ng-component > ngb-tabset > div > .tab-pane > div > issues-table > p-paginator > div.ui-paginator > .ui-paginator-pages > a:last-of-type {
     display: block;
@@ -7526,7 +7526,7 @@ z-index: 9999999 !important;
 }
 #\2f usermanagement\2f add > ng-component > div.modal-body h4 {
     color: #eee;
-    
+
 }
 #\2f usermanagement\2f add > ng-component > div.modal-body > div.row > div:nth-child(2) {
     padding-top: 5px
@@ -7697,7 +7697,7 @@ th.active a {
     font-weight: 400;
     font-size: 14px;
     padding: 0 35px 0 0;
-    
+
 }
 .user-details > div:nth-child(5) > .btn-info-outline:hover {
     color: var(--color-secondary-hover) !important;
@@ -7717,7 +7717,7 @@ th.active a {
     font-family: Open Sans Bold,Helvetica Neue,Helvetica,Arial,sans-serif !important;
     font-weight: 400;
     -webkit-font-smoothing: antialiased;
-    
+
 }
 .user-details > div:nth-child(5) > .btn-danger-outline:before {
     content: "\e020";
@@ -7833,7 +7833,7 @@ label {
         font-weight: 400 !important;
     font-family: Open Sans Bold,Helvetica Neue,Helvetica,Arial,sans-serif;
         -webkit-font-smoothing: antialiased;
-        top: 740px;
+        top: 540px;
         left: 320px;
         color: #eee;
         max-height: 55px;
@@ -7841,8 +7841,8 @@ label {
         text-overflow: ellipsis;
     }
 
-    
-    
+
+
 .issue-details br {
     display: none;
 }
@@ -7850,17 +7850,17 @@ label {
     z-index: -9;
     width: calc(100% + 60px);
     margin-left: -30px;
-    height: 700px;
+    height: 500px;
 }
 .issue-details > .myBg {
     opacity: 1;
     width: calc(100% + 60px);
     margin-left: -30px;
-    height: 700px;
+    height: 500px;
         background-position: center center;
 }
 .issue-details > .col-md-6 {
-    margin-top: 650px;
+    margin-top: 450px;
     padding-left: 30px;
     padding-right: 0;
     width: calc(100% - 30px)
@@ -7891,8 +7891,8 @@ label {
     .label-success {
     background-color: var(--color-tag-available);
 }
-    
-    
+
+
 .issue-details > .col-md-6 > .reported-user > h3:first-of-type {
     position: absolute;
 background: transparent;
@@ -7918,7 +7918,7 @@ font-size: 15px;
         padding: 0;
         margin: 0;
         text-align: justify;
-        
+
 }
 .issue-details > .col-md-6 > .label-success:before {
     content: "Issue Type";
@@ -8101,7 +8101,7 @@ font-size: 15px;
     color: #eee;
     box-shadow: none;
     border-radius: 0;
-    
+
 }
 .issue-details > .chat-window > div > div > div.panel-body.msg_container_base.ng-star-inserted > div.base_receive > div > div {
     background: transparent;
@@ -8132,7 +8132,7 @@ font-size: 15px;
     }
 .issue-details > .chat-window > .col-md-12 > .panel > .panel-footer > div > input {
     max-width: 500px;
-    width: calc(100% - 60px); 
+    width: calc(100% - 60px);
 }
 .issue-details > .chat-window > .col-md-12 > .panel > .panel-footer > div > span > .btn {
     height: 38px;
@@ -8149,7 +8149,7 @@ font-size: 15px;
     font-family: Open Sans Bold,Helvetica Neue,Helvetica,Arial,sans-serif !important;
     font-weight: 400;
     -webkit-font-smoothing: antialiased;
-    
+
 }
 .issue-details > .chat-window > .col-md-12 > .panel > .panel-footer > div > span > .btn:hover {
     background: var(--color-secondary-hover);
@@ -8202,12 +8202,12 @@ font-size: 15px;
     font-family: Open Sans semibold,Helvetica Neue,Helvetica,Arial,sans-serif !important;
     font-weight: 400;
     -webkit-font-smoothing: antialiased;
-    
+
 }
 .issue-details > .col-md-12 > div > div:hover .btn {
     border-color: var(--color-primary);
     color: #fff;
-    
+
     }
 .issue-details > .col-md-12 > div > div > .btn:after {
     position: absolute;
@@ -8248,7 +8248,7 @@ font-size: 15px;
     height: 24px;
     background: transparent;
     z-index: -9
-    
+
 }
 .issue-details > .col-md-12 > div > div:hover .btn:before {
     background: rgba(0,0,0,.7);
@@ -8292,7 +8292,7 @@ movie-requests > div:nth-of-type(2),
 #\2f requests p-paginator .ui-paginator-first,
 #\2f requests p-paginator .ui-paginator-last {
     display: none;
-    
+
 }
 #\2f requests p-paginator .ui-paginator > span {
     display: none
@@ -8348,7 +8348,7 @@ movie-requests > div:nth-of-type(2),
     }
     #login > div > div:nth-child(3) > form > button:hover {
         background: var(--color-secondary-hover);
-        
+
     }
     #login > div > div:nth-child(3) > form > a > b {
         color: hsla(0,0%,100%,.7);
@@ -8368,7 +8368,7 @@ movie-requests > div:nth-of-type(2),
         width: 100%;
         float: left;
     }
-    
+
     div > #\/requests > ng-component > div > div > movie-requests > div:nth-child(3) > div > div > div.col-sm-5.small-padding > div.ng-star-inserted > div.root-override:first-of-type > span {
         margin-top: 24px;
         margin-left: -35px;
